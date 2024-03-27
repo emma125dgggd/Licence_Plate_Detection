@@ -1,5 +1,6 @@
 # Licence_Plate_Detection
-License Plate Recognition System
+*License Plate Recognition System
+
 This License Plate Recognition (LPR) system is an advanced, efficient, and accessible solution designed to automate the process of detecting and reading vehicle license plates. Utilizing state-of-the-art object detection and Optical Character Recognition (OCR) technologies, our system provides a seamless experience for users looking to integrate LPR capabilities into their projects. Whether for parking management, traffic control, security systems, or toll collection, our LPR system offers unparalleled accuracy and speed.
 
 Features
