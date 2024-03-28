@@ -21,18 +21,25 @@ To get started with our License Plate Recognition system, follow these simple st
 Ensure you have the following installed:
 
 Python 3.8 or higher
+
 pip (Python package installer)
 
 git
 
 **Steps**
 ```
-git clone https://github.com/theos-ai/easy-yolov7.git
+git clone https://github.com/emma125dgggd/Licence_Plate_Detection.git)
 ```
+
+```
+cd Licence_Plate_Detection
+```
+
 ```
 git clone https://github.com/theos-ai/easy-yolov7.git
 
 ```
+
 ```
 cd easy-yolov7
 ```
