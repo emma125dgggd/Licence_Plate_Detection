@@ -22,10 +22,13 @@ Ensure you have the following installed:
 
 Python 3.8 or higher
 pip (Python package installer)
+
 git
 
 Steps
+'''
 git clone https://github.com/theos-ai/easy-yolov7.git
+'''
 git clone https://github.com/theos-ai/easy-yolov7.git
 cd easy-yolov7
 yolov7.load('./models/best.weights', classes='./classes/classes.yaml', device='cpu') # use 'gpu' for CUDA GPU inference
