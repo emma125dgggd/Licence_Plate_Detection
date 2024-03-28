@@ -1,0 +1,7 @@
+classes:
+  - name: license-plate
+    color: '#084a6b'
+    skeleton: {}
+  - name: license-plate-number
+    color: '#35c6ae'
+    skeleton: {}
