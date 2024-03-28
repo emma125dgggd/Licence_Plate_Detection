@@ -44,6 +44,6 @@ git clone https://github.com/theos-ai/easy-yolov7.git
 cd easy-yolov7
 ```
 ```
-yolov7.load('./models/best.weights', classes='./classes/classes.yaml', device='cpu') # use 'gpu' for CUDA GPU inference
+yolov7.load('Licence_Plate_Detection/models/best.weights', classes='Licence_Plate_Detection/classes/classes.yaml', device='cpu') # use 'gpu' for CUDA GPU inference
 ```
 
